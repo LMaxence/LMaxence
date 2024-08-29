@@ -2,7 +2,7 @@
 👨🏼‍💻 I'm currently working at [Escape](https://escape.tech)
 
 🦾 I'm maintaining open source projects
-- [Gookme, the Golang successor of Mookme](https://lmaxence.github.io/gookme/)
+- [Gookme, the Golang successor of Mookme](https://github.com/LMaxence/gookme)
 - [Mookme, a git hook manager designed for monorepos](https://mookme.org)
 - [Hellog, yet another logger in JavaScript](https://github.com/LMaxence/hellog)
 - [A discord bot linking Gitlab and Discord for company usage](https://github.com/Escape-Technologies/discord-bot)
